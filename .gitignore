@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Personal notes (if you want to keep some private)
+private-notes/
